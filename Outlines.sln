@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlines", "Outlines\Outlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlinesApp", "OutlinesApp\OutlinesApp.csproj", "{22E7FA16-5E3A-4595-9A5F-3D838D76C312}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlinesInstaller", "OutlinesInstaller\OutlinesInstaller.csproj", "{55C41C45-E72F-4E23-A6B8-12A17C10D403}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{22E7FA16-5E3A-4595-9A5F-3D838D76C312}.UiAccessDebug|Any CPU.Build.0 = Debug|Any CPU
 		{22E7FA16-5E3A-4595-9A5F-3D838D76C312}.UiAccessRelease|Any CPU.ActiveCfg = Release|Any CPU
 		{22E7FA16-5E3A-4595-9A5F-3D838D76C312}.UiAccessRelease|Any CPU.Build.0 = Release|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.UiAccessDebug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.UiAccessDebug|Any CPU.Build.0 = Debug|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.UiAccessRelease|Any CPU.ActiveCfg = Release|Any CPU
+		{55C41C45-E72F-4E23-A6B8-12A17C10D403}.UiAccessRelease|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
