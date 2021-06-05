@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlines", "Outlines\Outlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlinesApp", "OutlinesApp\OutlinesApp.csproj", "{22E7FA16-5E3A-4595-9A5F-3D838D76C312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlines.Installer", "OutlinesInstaller\Outlines.Installer.csproj", "{55C41C45-E72F-4E23-A6B8-12A17C10D403}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Outlines.Installer", "Outlines.Installer\Outlines.Installer.csproj", "{55C41C45-E72F-4E23-A6B8-12A17C10D403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
