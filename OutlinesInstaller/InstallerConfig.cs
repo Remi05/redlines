@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace OutlinesInstaller
+namespace Outlines.Installer
 {
     public class InstallerConfig
     {
